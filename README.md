@@ -1,6 +1,6 @@
 # https://puns.dev
 A hand-picked selection of the worst computer puns, really cringe worthy stuff.
-
+ 
 Submit your own at the bottom of `puns.json` and if they make me cringe, I'll merge them.
 
 > I'm keeping these [gender-neutral](https://en.wikipedia.org/wiki/Gender-neutral_language), a programmer isn't automatically a "he", so please use the [singular they](https://en.wikipedia.org/wiki/Singular_they) pronoun when refering to a person in the puns.
